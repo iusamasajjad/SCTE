@@ -31,7 +31,7 @@ div#main{
 }
 
 .overlay div{
-    background-image: url(/assets/images/overly.png);
+    background-image: url(../images/overly.png);
     position: absolute;
     height: 800px;
     top: 0;
@@ -291,7 +291,7 @@ div#main{
 }
 
 .homepageSec-3 .map-img{
-    background-image: url(/assets/images/map.jpg);
+    background-image: url(../images/map.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -791,7 +791,7 @@ padding: 0;
 
 .footerSec-1 .last-footer-sec{
     padding: 145px 0 42px 0;
-    background-image: url(/assets/images/last-footer-img.jpg);
+    background-image: url(../images/last-footer-img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
